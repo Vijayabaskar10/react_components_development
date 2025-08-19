@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+/.turbo
+/.storybook-out
+
+# production
+/dist
+/storybook-static
+
+# misc
+.DS_Store
+*.log
+*.lock
+*.local
+.env
